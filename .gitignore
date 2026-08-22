@@ -1,0 +1,16 @@
+# Auto-generated index (regenerate with build_index_github.py)
+index.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local config with machine-specific paths — never commit this
+claude_desktop_config.json
+
+# OS / editor
+.vscode/
+.DS_Store
+Thumbs.db
