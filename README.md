@@ -64,7 +64,9 @@ It surfaces:
 │   (spawns server locally) │   → "0877-stone-game ka code dikhao"
 └─────────────────────────┘
 ```
+![Architecture Diagram](./architecture.png.png)
 
+![MCP Explained](./mcp-explained.png.png)
 ---
 
 ## 🛠️ Tech Stack
